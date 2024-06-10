@@ -1,4 +1,4 @@
-
+import React from 'react';
 import './App.css';
 import LoginSignUp from './components/LoginSignUp/LoginSignUp';
 import { createContext, useState } from 'react';
