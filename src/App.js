@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import LoginSignUp from './components/LoginSignUp/LoginSignUp';
 import { createContext, useState } from 'react';
-import ReactSwitch from "react-switch";
+import ReactSwitch from 'react-switch';
 
 
 
